@@ -185,7 +185,7 @@ After sentiment analysis, it was observed that most of the reviews were positive
 In order to analyze the sentiment measures and compare with sales performance for each book, we grouped the sentiment value for each reviews by its Book Title to get an aggregated value and merged it to the book attribute dataset. To derive final results, we compared the polarity values for each book to its sales rank using Tableau. 
 
 The following graph compares the mean polarity versus the sales rank for the top 100 ranked books. Ideally, the polarity values should have decreased as the sales rank increased. But as observed from the graph, the general trend line depicts a gradual increase in polarity values as sales rank increase. Thus it can be summarized that a 
-##### positive critic review doesn’t guarantee a success for a book in terms of sales and alternatively, critic reviews don’t have a major influence in book sales.
+#### positive critic review doesn’t guarantee a success for a book in terms of sales and alternatively, critic reviews don’t have a major influence in book sales.
 
 ![image](https://user-images.githubusercontent.com/57735006/112032146-73003e00-8b12-11eb-8c73-0e0e48d41ab0.png)
 
@@ -196,7 +196,7 @@ Using tableau we analyzed further to inspect whether critic reviews are genre/th
 ![image](https://user-images.githubusercontent.com/57735006/112032163-798eb580-8b12-11eb-91a6-519d27c82287.png)
 
 It’s interesting from the graph to observe that 
-##### critic reviews are subjective when it comes to reviews across different genres. For genres, politics and poetry, the general trend line decreases ie Polarity value decreases as rank increases which means critic reviews do have an influence over sales for these genres. 
+#### critic reviews are subjective when it comes to reviews across different genres. For genres, politics and poetry, the general trend line decreases ie Polarity value decreases as rank increases which means critic reviews do have an influence over sales for these genres. 
 
 ### Conclusion
 This project was successfully implemented and the following goals were achieved:
